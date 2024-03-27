@@ -3,7 +3,7 @@
         {
             "title": "2010 - 2014",
             "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"St. Kliment Ohridski, Bulgaria",
+            "cardSubtitle":"University of Bucharest, Romania",
             "cardDetailedText": "I successfully completed my bachelor's degree in computer science",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
@@ -12,7 +12,7 @@
         {
             "title": "2008 - 2010",
             "cardTitle": "High School",
-            "cardSubtitle":"Aprilov National High School, Bulgaria",
+            "cardSubtitle":"Spiru Haret, Romania",
             "cardDetailedText": "",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
